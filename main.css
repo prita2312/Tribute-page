@@ -1,0 +1,16 @@
+#tribute-page
+{
+  background-color: rgb(255, 255, 230);
+  margin: 20px 20px 20px 20px;
+}
+
+#msg-container
+{
+  background-color: grey;
+}
+
+#image
+{
+  padding-top: 10px;
+  padding bottom: 20px;
+}
